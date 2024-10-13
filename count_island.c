@@ -8,8 +8,6 @@
 #include "include/my.h"
 #include <stdio.h>
 
-
-
 int count_island(char** world)
 {
     return 0;
